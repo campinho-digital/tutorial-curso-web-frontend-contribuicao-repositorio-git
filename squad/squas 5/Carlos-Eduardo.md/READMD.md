@@ -1,6 +1,6 @@
 ### Carlos Eduardo 
 
-atualmente estudando 
-futuro desenvolvedor front end 
-18 anos
-instagrem CaRl001
+# Atualmente estudando 
+# Futuro desenvolvedor front end 
+# 18 anos
+# Instagrem CaRl001
