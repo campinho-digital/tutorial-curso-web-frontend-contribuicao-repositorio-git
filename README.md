@@ -87,7 +87,7 @@ Agora que você está em uma nova branch, pode fazer alterações no repositóri
 ├── README.md
 └── squads
     ├── squad1
-    │   └── seu_nome_sobrenome.md
+    │   └── evani_souza.md Objetivo_Colaborar com o desenvolvimento de funcionalidades. Responsabilidades_Desenvolver páginas com HTML,CSS e JS. Contato_evanisouzaalves@gmail.com
     ├── squad2
     │   └── seu_nome_sobrenome.md
     ├── squad3
