@@ -1,0 +1,4 @@
+- Objetivo: Criação do arquivo em meu nome
+- Responsabilidades: fiz sozinho
+- Contato: Inclua max-will-94@hotmail.com
+- data: 29/04/2025
