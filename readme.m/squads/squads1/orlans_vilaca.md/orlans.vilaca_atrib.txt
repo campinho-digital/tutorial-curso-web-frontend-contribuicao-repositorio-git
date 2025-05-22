@@ -1,0 +1,16 @@
+Nome: Orlans Almeida
+Squad: Pagamentos Digitais
+Cargo: Desenvolvedor Backend Pleno
+Contato:oav@empresa.com | Canal interno: @oav (Slack)
+
+Responsabilidades
+Desenvolvimento de APIs: Responsável pela criação e manutenção de APIs RESTful utilizadas nos fluxos de pagamento.
+
+Integrações com terceiros: Realização de integrações com gateways de pagamento e instituições financeiras.
+
+Revisão de código (Code Review): Participação ativa nas revisões de PRs, garantindo boas práticas, segurança e performance.
+
+Contribuições Relevantes
+Refatoração do módulo de conciliação bancária, reduzindo o tempo de processamento em 35%.
+
+Liderança técnica no projeto de migração para microsserviços, definindo padrões de arquitetura e boas práticas.
